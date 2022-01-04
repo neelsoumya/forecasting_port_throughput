@@ -4,13 +4,21 @@
 
 Code to perform forecasting of port throughput. Synthetic data is used here as an example.
 
+## Installation
+
+```r
+install.packages('devtools')
+library(devtools)
+devtools::install_github('neelsoumya/forecasting_port_throughput')
+```
+
 ## Code
 
 Code applied to synthetic data 
 
 https://bitbucket.org/neelsoumya/accident_prediction/src
 
-R code to perform forecasting and SQL like queries for a road accident forecasting and data exploration project
+R shiny application to perform forecasting and SQL like queries for a road accident forecasting and data exploration project
 
 https://neelsoumya.shinyapps.io/accident_prediction/
 
@@ -20,6 +28,7 @@ https://neelsoumya.shinyapps.io/accident_prediction/
 https://www.repository.cam.ac.uk/handle/1810/304150
 
 https://osf.io/c3av2/
+
 
 ## Citation
 
